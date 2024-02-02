@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.login-form {
+    width: 20%;
+    background-color: aquamarine;
+    /* display: flex;
+    flex-wrap: wrap; */
+    margin-left: 40%;
+    margin-top: 10%;
+    height: 45vh;
+    border: 1px solid black;
+    border-radius: 25px;
+}
+
+
+
+.email input {
+    width: 75%;
+    max-width: 400px;
+    font-size: 1em;
+    margin-left: 12%;
+    margin-top: 15%;
+    height: 5vh;
+    border-radius: 7px;
+}
+
+.password input {
+    width: 75%;
+    max-width: 400px;
+    font-size: 1em;
+    margin-left: 12%;
+    margin-top: 13%;
+    height: 5vh;
+    border-radius: 7px;
+}
+
+.login-btn {
+    margin-top: 15%;
+    width: 30%;
+    height: 4vh;
+    margin-left: 35%;
+    border-radius: 5px;
+    background-color: aqua;
+}
+
+#frgt-pass{
+    text-align: center;
+    margin-top: 10%;
+}
+
+.forgot-pass-page {
+    width: 20%;
+    height: 23vh;
+    background-color: aquamarine;
+    border-radius: 25px;
+    margin-left: 40%;
+    margin-top: 10%;
+    border: 1px solid black;
+}
+
+.frgt-email-box input{
+    width: 75%;
+    max-width: 400px;
+    font-size: 1em;
+    margin-left: 12%;
+    margin-top: 15%;
+    height: 5vh;
+    border-radius: 7px;
+
+}
+
+.reset-link {
+    text-align: center;
+    margin-top: 10%;
+}
