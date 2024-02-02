@@ -85,8 +85,9 @@
     .login-form {
         width: 50%;
         height: 45vh;
-         margin-left: 30%;
-    margin-top: 15%;
+         margin-left: 27%;
+    margin-top: 25%;
+        background-color: aquamarine;
     }
 
     #frgt-pass{
