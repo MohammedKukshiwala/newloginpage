@@ -84,9 +84,9 @@
 @media only screen and (max-width: 500px) {
     .login-form {
         width: 70%;
-        height: 43vh;
+        height: 40vh;
          margin-left: 15%;
-    margin-top: 30%;
+    margin-top: 35%;
         background-color: aquamarine;
     }
 
@@ -96,7 +96,7 @@
     background-color: aquamarine;
     border-radius: 25px;
     margin-left: 15%;
-    margin-top: 30%;
+    margin-top: 45%;
     border: 1px solid black;
 }
 
