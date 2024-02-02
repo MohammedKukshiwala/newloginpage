@@ -5,6 +5,7 @@
 
 .login-form {
     width: 20%;
+    max-width: 40%
     background-color: aquamarine;
     /* display: flex;
     flex-wrap: wrap; */
