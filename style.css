@@ -85,7 +85,7 @@
     .login-form {
         width: 80%;
         height: 50vh;
-         margin-left: 15%;
+         margin-left: 10%;
     margin-top: 35%;
         background-color: aquamarine;
     }
@@ -106,7 +106,7 @@
 
     #frgt-pass{
     text-align: center;
-    margin-top: 10%;
+    margin-top: 20%;
     font-size: 20px;
 }
     
