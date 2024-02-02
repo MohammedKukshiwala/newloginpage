@@ -84,7 +84,7 @@
 @media only screen and (max-width: 500px) {
     .login-form {
         width: 70%;
-        height: 45vh;
+        height: 43vh;
          margin-left: 15%;
     margin-top: 30%;
         background-color: aquamarine;
@@ -92,7 +92,7 @@
 
     .forgot-pass-page {
     width: 70%;
-    height: 23vh;
+    height: 21vh;
     background-color: aquamarine;
     border-radius: 25px;
     margin-left: 15%;
