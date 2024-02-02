@@ -85,7 +85,7 @@
     .login-form {
         width: 70%;
         height: 45vh;
-         margin-left: 27%;
+         margin-left: 18%;
     margin-top: 25%;
         background-color: aquamarine;
     }
@@ -95,7 +95,7 @@
     height: 23vh;
     background-color: aquamarine;
     border-radius: 25px;
-    margin-left: 20%;
+    margin-left: 18%;
     margin-top: 25%;
     border: 1px solid black;
 }
